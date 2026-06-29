@@ -141,7 +141,7 @@ class _Forgetpasswordpage extends State<Forgetpasswordpage> {
                                 resetPassword();
                               },
                               child: Text(
-                                "LogIn",
+                                "Send Reset Link",
                                 style: TextStyle(
                                   fontSize:
                                       MediaQuery.sizeOf(context).width * 0.04,
