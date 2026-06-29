@@ -1,8 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:wichtask/presentation/forgetpasswordpage.dart';
-import 'package:wichtask/presentation/loginpage.dart';
-import 'package:wichtask/presentation/registrationpage.dart';
 import 'package:wichtask/presentation/splashscreen.dart';
 
 import 'firebase_options.dart';

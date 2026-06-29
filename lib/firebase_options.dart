@@ -50,18 +50,18 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB1wvrpA6ZHmv3sfh_sDmrS2rQ04LPobs0',
-    appId: '1:474300693616:android:1315129f613bb95bf8c8b5',
-    messagingSenderId: '474300693616',
-    projectId: 'wichtask-47925',
-    storageBucket: 'wichtask-47925.firebasestorage.app',
+    apiKey: 'AIzaSyBQuNPawUcoX-3AIdTwmBdU9RkDiS8k0hk',
+    appId: '1:798051919285:android:570e94d616f1e63443a5fc',
+    messagingSenderId: '798051919285',
+    projectId: 'wichtask-60b3c',
+    storageBucket: 'wichtask-60b3c.firebasestorage.app',
   );
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAfdIz1JETIUbHe9s7MR-Zvyk-46IgDJvc',
-    appId: '1:474300693616:ios:6596670aaf0064cef8c8b5',
-    messagingSenderId: '474300693616',
-    projectId: 'wichtask-47925',
-    storageBucket: 'wichtask-47925.firebasestorage.app',
+    apiKey: 'AIzaSyAEaqlq_jJZumEwOxHT3pxkQy-3ojBluW8',
+    appId: '1:798051919285:ios:b3c36a2850cff91f43a5fc',
+    messagingSenderId: '798051919285',
+    projectId: 'wichtask-60b3c',
+    storageBucket: 'wichtask-60b3c.firebasestorage.app',
     iosBundleId: 'com.example.wichtask',
   );
 }

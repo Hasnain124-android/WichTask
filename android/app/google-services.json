@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "474300693616",
-    "project_id": "wichtask-47925",
-    "storage_bucket": "wichtask-47925.firebasestorage.app"
+    "project_number": "798051919285",
+    "project_id": "wichtask-60b3c",
+    "storage_bucket": "wichtask-60b3c.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:474300693616:android:1315129f613bb95bf8c8b5",
+        "mobilesdk_app_id": "1:798051919285:android:570e94d616f1e63443a5fc",
         "android_client_info": {
           "package_name": "com.example.wichtask"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB1wvrpA6ZHmv3sfh_sDmrS2rQ04LPobs0"
+          "current_key": "AIzaSyBQuNPawUcoX-3AIdTwmBdU9RkDiS8k0hk"
         }
       ],
       "services": {
